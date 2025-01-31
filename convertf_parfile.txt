@@ -1,6 +1,6 @@
-genotypename: v44.3_HO_public.geno
-snpname: v44.3_HO_public.snp
-indivname: v44.3_HO_public.ind
+genotypename: your_dataset_name.geno
+snpname: your_dataset_name.snp
+indivname: your_dataset_name.ind
 outputformat: PACKEDPED
 genotypeoutname: dataset.bed
 snpoutname: dataset.bim
