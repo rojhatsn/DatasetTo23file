@@ -1,0 +1,7 @@
+genotypename: v44.3_HO_public.geno
+snpname: v44.3_HO_public.snp
+indivname: v44.3_HO_public.ind
+outputformat: PACKEDPED
+genotypeoutname: dataset.bed
+snpoutname: dataset.bim
+indivoutname: dataset.fam
